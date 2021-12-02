@@ -1,2 +1,2 @@
-# WHAT RYUUKI DOES
-Piloting the Proof-of-Soul network
+# What RYUUKI does
+Piloting the Proof-of-Soul consensus mechanism
