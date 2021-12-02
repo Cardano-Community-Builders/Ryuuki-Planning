@@ -10,12 +10,12 @@ layout: default
 
 <br>
 
-{% include 03-links.md %}
-
-<br>
-
 {% include 04-what.md %}
 
 <br>
 
 {% include 05-how.md %}
+
+<br>
+
+{% include 03-links.md %}
