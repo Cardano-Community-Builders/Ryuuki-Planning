@@ -1,1 +1,1 @@
-## RYUUKI Pool Network
+## RYUUKI a Pool Network
