@@ -1,2 +1,2 @@
-# Ryuiki
-Ryuiki - The Cardano watershed moment
+# Ryuuki
+Ryuuki - The Cardano watershed moment
